@@ -11,6 +11,11 @@ This script introduces an advanced AFK (Away From Keyboard) system for GTA V ser
 - **Customizable UI**: Features a Native UI for interactions, allowing players to exit AFK mode or perform specific actions while AFK.
 - **Server-side Integration**: Triggers server-side events for additional actions related to AFK status, offering extensive customization possibilities.
 
+
+
+https://github.com/JESSIM-lua/FiveM-AFKMode/assets/145444152/2624810f-a12e-4553-a0bb-808315e7a673
+
+
 ## Prerequisites
 
 - FiveM server with the capability to register and execute custom scripts.
